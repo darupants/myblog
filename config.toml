@@ -1,0 +1,4 @@
+baseURL = "http://darupants.github.io/"
+languageCode = "ja"
+title = "My Blog"
+theme = "hugo-zen"
