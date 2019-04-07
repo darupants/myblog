@@ -1,4 +1,13 @@
-baseURL = "http://darupants.github.io/"
+baseurl = "http://darupants.github.io/"
 languageCode = "ja"
-title = "My Blog"
+title = "Darudaru Blog"
 theme = "hugo-zen"
+author = "darupants"
+copyright = "darupants All rights reserved."
+
+
+[params]
+  logo      = "/images/darupants.jpg"
+  twitter   = "https://twitter.com/darupants"
+  github    = "https://github.com/darupants/"
+  email     = "darupants@gmail.com"
