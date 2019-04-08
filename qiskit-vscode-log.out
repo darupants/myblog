@@ -1,0 +1,8 @@
+verbose - Object: Activating qiskit-vscode extension...
+verbose - Object: ✨ Activating qiskit-vscode extension... ✨
+error - Object: Seems like there was a problem: Version >= 3.5 of package python is required
+error - Object: Dependencies error: Version >= 3.5 of package python is required
+info - Object: QConfig is not configured. The command won't be launched
+info - Object: QConfig is not configured. The command won't be launched
+verbose - Object: Clicked on other element! Redirecting to configuration anyway
+verbose - Object: Deactivating Qiskit extension ...
